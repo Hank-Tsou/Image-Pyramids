@@ -17,3 +17,7 @@
 >>> <pre> >> [C:\Users\hank\Desktop\Yueh_Lin_Tsou_lab2\2>python 2.py]
 
 >>> (d) The program will show the two result image 
+
+>>> ![2_1_output](https://user-images.githubusercontent.com/28382639/35773195-022b7970-0900-11e8-980d-cda0f202e59b.jpg)
+
+>>> 
