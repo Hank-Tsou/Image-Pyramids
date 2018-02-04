@@ -20,4 +20,5 @@
 
 >>> ![2_1_output](https://user-images.githubusercontent.com/28382639/35773195-022b7970-0900-11e8-980d-cda0f202e59b.jpg)
 
->>> 
+>>> ![2_2_output](https://user-images.githubusercontent.com/28382639/35773202-152086ce-0900-11e8-814f-8e3ddf8f4568.jpeg)
+
