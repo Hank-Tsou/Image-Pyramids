@@ -12,6 +12,7 @@ Command line >> python Pyramid_Image_Blending.py -i moon.jpg -t dog.jpg -m mask.
 ```
 
 The program will show the result image as below: 
+
 ![2_1_output](https://user-images.githubusercontent.com/28382639/35773195-022b7970-0900-11e8-980d-cda0f202e59b.jpg)
 
 	  
