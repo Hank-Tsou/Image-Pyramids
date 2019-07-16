@@ -17,9 +17,7 @@ The program will show the result image as below:
 ![2_1_output](https://user-images.githubusercontent.com/28382639/35773195-022b7970-0900-11e8-980d-cda0f202e59b.jpg)
 
 The process images show as below:
-
 ![2_2_output](https://user-images.githubusercontent.com/28382639/35773202-152086ce-0900-11e8-814f-8e3ddf8f4568.jpeg)
-
 Useful link for implementation:
 
 - [Image Pyramids](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/7_Image_Pyramids)
